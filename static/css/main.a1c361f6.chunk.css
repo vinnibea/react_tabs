@@ -1,0 +1,2 @@
+.App__main-content{height:50vh;width:100%;margin:0;padding:50px;color:#fff;background-color:rgba(56,30,148,.46)}.App__main{display:flex;flex-direction:column;align-items:center}.App__button{width:250px;height:50px;border:none;border-radius:10px 10px 0 0;cursor:pointer}.App__button--active{font-weight:700;text-transform:uppercase;color:#fff;height:50px;background-color:rgba(56,30,148,.46);transition:all .5s}.App__button:not(:last-child){margin-right:10px}
+/*# sourceMappingURL=main.a1c361f6.chunk.css.map */
